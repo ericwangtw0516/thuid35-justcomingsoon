@@ -22,7 +22,7 @@ export default function Home() {
 
       {/* Instagram Button */}
       <a
-        href="https://instagram.com"
+        href="https://www.instagram.com/thuid_35"
         target="_blank"
         rel="noopener noreferrer"
         className="instagram-button"
